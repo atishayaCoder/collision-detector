@@ -1,0 +1,15 @@
+process - 
+
+make a collider / isTouchig function
+ 
+make a random car factor genarator including -
+1 speed
+2 weight
+
+calculate deformation with a formula
+deformation = 0.5*weight*speed*speed/22500
+
+if deformation is greater than 180
+the ride is fatal
+esle not
+ 
